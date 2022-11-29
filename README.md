@@ -16,6 +16,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sire6715&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sire6715&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sire6715&show_icons=true&locale=en" alt="sire6715" /></p>

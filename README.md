@@ -8,7 +8,7 @@ Aspiring software engineer on a mission to build clean, scalable, and thoughtful
 - Learning to communicate better through code and collaboration
 
 ### 🛠 Tech Stack
-`HTML` `CSS` `Tailwind CSS` `React`  `Git` `GitHub`
+`HTML` `CSS` `Tailwind CSS` `React`  `Git` `GitHub` `python` `next.js` `SQL` `Graph QL` 
 
 ### 📫 Let's Connect!
 - Email: [uchepbe@gmail.com](mailto:uchepibe@gmail.com)

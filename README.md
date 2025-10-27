@@ -1,14 +1,6 @@
 # Hi there, I'm Prince 👋
 
-Aspiring software engineer on a mission to build clean, scalable, and thoughtful user interfaces. Currently learning in the **proDev Frontend Program**, and exploring React, Tailwind CSS, and Next.js.
-
-### 🧠 What I'm Working On
-- Building projects to sharpen my frontend skills
-- Developing consistency and grit through hands-on practice
-- Learning to communicate better through code and collaboration
-
-### 🛠 Tech Stack
-`HTML` `CSS` `Tailwind CSS` `React`  `Git` `GitHub` `python` `next.js` `SQL` `Graph QL` 
+Aspiring software engineer on a mission to build clean, scalable, and thoughtful user interfaces.
 
 ### 📫 Let's Connect!
 - Email: [uchepbe@gmail.com](mailto:uchepibe@gmail.com)

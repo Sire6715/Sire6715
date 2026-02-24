@@ -1,8 +1,9 @@
-# Uche Prince.
+# Prince Uche.
+Front-End Developer & Data Analyst 
 
-Aspiring software engineer on a mission to build clean, scalable, and thoughtful user interfaces.
+- 📧 [uchepibe@gmail.com](mailto:uchepibe@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/prince-uche-15a4b2362/)
+- 🐦 [@sire_reigns](https://twitter.com/sire_reigns)
+- 🌐 Portfolio: Coming soon
 
-- Email: [uchepbe@gmail.com](mailto:uchepibe@gmail.com)
-- Twitter: [@sire_reigns](https://twitter.com/sire_reigns)
-- LinkedIn: [prince-uche](https://www.linkedin.com/in/prince-uche-15a4b2362/)
-- Portfolio (coming soon!)
+`React` `TypeScript` `Next.js` `Python` `SQL` `Tailwind CSS` `Figma` `Power BI` `Scikit-Learn` 
